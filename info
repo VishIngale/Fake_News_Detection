@@ -1,0 +1,2 @@
+fake = pd.read_csv("C:\\Users\\BHAUSAHEB\\Downloads\\Fake.csv")
+true = pd.read_csv("C:\\Users\\BHAUSAHEB\\Downloads\\True.csv")
